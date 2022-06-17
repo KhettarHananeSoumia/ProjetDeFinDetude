@@ -1,0 +1,643 @@
+Verre de DAT fissuré	sécurité
+Le kioosque était fermé â 7h 09 	gestion
+DAT fessuré	sécurité
+L'un des DAT N'etait pas fonctionelle	technique
+présent autocolant sur l'armoire electrique	gestion
+Ram 122 le valideur n'etait pas fonctionelle	technique
+L'agent ne porte pas la bavete	comportement
+Un valideur de la ram 119 wagon 4 n'etait pas fonctionelle	technique
+L'agence commercial S20 était fermé	gestion
+Kiosque 01 était fermé	gestion
+La porte de l'armoire electrique ouverte	sécurité
+Presente des fiches sur la facade laterale du kiosque	gestion
+L'agent n'a pas porter la bavette correctement	comportement
+Dans la rame wagon 04 le valideur de tickets ne fonctionne pas	technique
+Il dans cette station il y un vitre est cassé	sécurité
+L'absence de couvercle du poteau électrique	sécurité
+L'absence de l'agent de kiosque	comportement
+Les agent sont assis sur les chaise	respect
+L'agent est assis sur le siège des passagers	respect
+Il y'avait deux agents sur le kiosque l'un des deux entrain de manger et l'autre ne porte pas la bavette	comportement
+L'agent de kiosque ne porte pas la bavette correctement	comportement
+Le contrôleur assis sur les bancs de voyageurs	respect
+Le verrou de l'armoire électrique est cassé et attaché avec un cordon électrique	sécurité
+L'agent ne prend pas la bavette 	comportement
+DAT fissuré	sécurité
+L'agence commerciale est fermée	gestion
+Parlé avec son collègue	respect
+Les agents de controle prendre des chaises	respect
+L'afficheur de DAT n'etait pas fonctionelle	technique
+L'Un des contrôleur assis sur les bancs de voyageurs	respect
+Une piece de l'abrie étair cassé	sécurité
+la ram fait un retard stationê 2 minute sur la station 12	technique
+à l'heur14:05 l'agent de kiosque ne porte pas la bavette correctement il était entrain d'écouter la musique	comportement
+L'agent de l'agence commerciale est une jeune femme, et l'agent ne prend pas la bavette 	comportement
+L'agent de kiosque ne porte pas la bavette correctement il à les yeux bleu grande taille	comportement
+L'agent de kiosque n'existe pas	metier
+Le BIV est éteint	gestion
+L'agent de l'agence qui joue avec son smartphone , petite taille , il fixe ces cheveux avec le Gel , il n'a pas de barbe	metier
+Ram 103 l'un des valideur n'etait pas fonctionelle	technique
+Il ya un retard de 2 minute sur BIV	technique
+L'écran tactile de DAT n'est pas fonctionnel	technique
+L'agent demande de l'aide de son camarade pour me reprendre	comportement
+A 11:17 l’agent de kiosque entrain de parler sur son smartphone , son âge est environ 40 , brun , il ne porte pas de barbe, taille normale	metier
+Manque de 3 élement de verre de la toiture	sécurité
+Prendre la bavette incorecte	comportement
+Presence d'eau sur le sol de l'abrie	sécurité
+Valideur de la ram 122 n'est pas fonctionnelel	technique
+A 11:23 l’agent de kiosque ne porte pas la bavette correctement, Il est dans la quarantaine, sans barbe, brun	comportement
+Valideur ram1 ne fonctionne pas	technique
+La ram fait un retard de 4 minute	technique
+Valideur de la ram 108 ne fonctionne pas/val02	technique
+A 14:23 Au sein de l’agence, le vendeur de tickets refuse de répondre aux questions concernant les horaires de passage , il est jeune , brun , il fixe ces cheveux avec le gel , envrion 26 -27 ans	comportement
+A 16:00 l’agent de kiosque ne porte pas la bavette correctement , il à les yeux bleus , des cheveux longs, son âge est dans les vingtaines	comportement
+La rame 107 est arrêtée pendant 15 min sur la station 12	technique
+La rame 125 est arrêtée sur la station 13 pendant 10 min	technique
+Fissure sur DAT	sécurité
+A 13:44 l’agent de kiosque ne porte pas la bavette correctement, brun avec une barbe, il fixe ces cheveux avec le gel	comportement
+A 15:53 le vendeur de tickets joue avec son smartphone , il est blanc, ne porte pas de barbe les yeux noire	metier
+A 15:55 l’agent de kiosque ne vendent pas des abonnements pour les étudiants jusqu’à la nouvelle rentrée scolaire, il a les yeux vert , brun	comportement
+16:51 L’agent de kiosque ne porte pas la bavette correctement , brun , yeux noirs, il a une barbe, fixe ces cheveux avec le gel	comportement
+A 15:25 l’agent de kiosque refuse de me répondre sur une question concernant l’abonnement il m’a demandé d’aller au agence commerciale, brun , yeux noir, il a une barbe ses cheveux sont courts	comportement
+Valideur v09 de la ram ne fonctionne pas	technique
+A 16:18 l’agent de kiosque parle avec son téléphone (smartphone) il est blanc il a les cheveux long, il a une barbe	metier
+L’agent remplaçant ne sait pas est-ce que les agences vendent les cartes d’abonnement pour les étudiants ou pas !	comportement
+Les valideurs de la ram ne fonctionne pas	technique
+A14:37 un agent de contrôle est assis sur les bancs du voyageur et parler avec une fille il est brun , long , il a une barbe,cheveux petits, porte un basket GUCCI noir	respect
+A18:15  L’agent ne sait pas les procédure pour obtenir une abonnement d’un étudiant	comportement
+La perte de la carte d’abonnement	technique
+A13:18 l’agent de kiosque ne porte pas la bavette correctement , brun ,yeux noirs,petite barbe, cheveux fixés	comportement
+Valideur de la tam val 04 ne fonctionne pas	technique
+Valideur da la ram 3 ne fonctionne pas	technique
+DAT est éteint	technique
+Le kiosque No1 était fermé	gestion
+ELLE me vent le ticket debout	metier
+L'agent de kiosque prend une autre marque de la veste	comportement
+Le valideur des tickets de la ram ne fonctionne pas	technique
+Le valideur de laram wagon1 val08 ne fonctionne pas	technique
+Aucun qeusqe	gestion
+Ram 108 le systéme sonore ne fonctionne pas	technique
+L'agent de kiosque un bonne homme de trantaine avev barbe  noir  il en train de parlé avec son smart phone et ne pas changé la position	metier
+le seystam date nom fonction pas	technique
+un proplem de dimrag de la lien de tram	technique
+Ram 102 valideur val 09 était fonctione mais il nétait il n'affiche pas	technique
+Valideur Val 04 ne fonctionne pas	technique
+Une propelme de nemrotatio le ton	technique
+BIV affiché un retard de 5 minute	technique
+Valideur de la ram wagon 1 ne fonctoomne pas	technique
+Val 05 de la rame ne fonctione pas	technique
+Valideur d3 la rame wagon 3 ne fonctionne pas	technique
+Les valideurs de la ram109 ne fonctionne pas	technique
+Le faisons de kiyousc este casee	sécurité
+Le systéme sonore de la ram 16 ne donctionne pas	technique
+Le fayounc de keousic este casee	sécurité
+La agents commercial este fermi	gestion
+Le keyosc este ferme	gestion
+L'AGENT DE KIOSQUE ME VENT LE TICKET DEDOUT	metier
+La agent une homme blont esiu verre 2 une problème technique de rames	technique
+une proplem tecnic de RAM roter	technique
+L'écran d'information est allumé mais ne fonctionne pas	technique
+L'agent de l'agence commerciale aux cheveux noirs et aux cheveux bruns utilisait un smartphone	metier
+Agents commercial ferme	gestion
+La même agent au yeux verts et à la coiffure flirte avec les filles de manière immorale aux cheveux blonds	respect
+L'agent parle de manière indécente, il est un homme de taille moyenne, avec une barbe noire et des yeux noirs	respect
+L'agent parle au téléphone indifféremment à un client, il est grand et mince aux yeux verts et aux cheveux blonds	metier
+Valideue val07 de la rame ne fonctionne pas	technique
+Les valideurs de la ram ne fonctiomne pas      BIV affiche que: bienvenue	technique
+Valideur val 5 n'affiche rien	technique
+L'agent parle au téléphone indifféremment à un client, il est grand et mince aux yeux verts et aux cheveux blonds	metier
+L'agent de kioque se trouve a l'exterieur  en train de fumé et boire du café un bon homme blanc 175 grand tail cheuveux chatin	metier
+L'agent de cotrol prend une autre veste que de la setram chef des agent brun ptend des lunette medicalev	comportement
+Dans l'agence commerciale, une femme portant le hijab utilise un smartphone	metier
+L'agent de kiosque un jeune homme de vintaine 170 blan jouer avec son smartephone debout  et prendre une autres vesque que de la setrame	metier
+2 agent de controle ne prende pas les vestes de setram des jeune entre 25-28 ans bla170-178	comportement
+Chef des agents de controle un jeune de trantaine prend des lunette medicale 170 brun prendre une autres veste que de la setrame	comportement
+L'agent est un homme à la peau foncée d'environ 40 ans qui parle au téléphone sans se soucier d'un client	metier
+il est resté debout, ne s'est pas assis en place et a parlé d'une manière inappropriée	metier
+L'agent joue avec un smartphone, de petite taille, de teint blanc, de coiffure	metier
+L'agent parle sur le smartphone avec des looks blonds	metier
+L'écran d'information est allumé ou ne fonctionne pas	technique
+ mais le kiosque a une façade cassée	sécurité
+L'agent n'est pas redressé vers un client et utilise le téléphone portable Un homme de taille moyenne porte des lunettes,	metier
+il n'a pas changé de position pour le client	metier
+le kiosque a une façade cassée	sécurité
+Deux agent predre des autres veste que celui de la setram un jeune de bintaine petit taille brun et l'autre un bonne homme de quarantaine blanc 175 . 180m	comportement
+Les 3 agent de controle prendre des autes vestes que de la setrame	comportement
+L'agence commerciale est fermée	gestion
+L'agent utilise un smartphone, grand, blond, déclenché par les cheveux	metier
+L'agent de kiosque un bon homme de quarantaine en train de parlé avec son smartphone	metier
+La machine de paiement fonctionne, mais le colis ne reçoit pas d'argent	technique
+L'agent est resté debout et n'a pas respecté le client.Il est blond et chauve, la quarantaine de haut	metier
+Chef des agent prendre une autre veste que de la setrame un bon h9mme devtrantaine 175 .178	comportement
+Les deux observateurs ne portent pas le manteau de l'entreprise, l'un d'eux a une barbe grise d'une quarantaine d'années, de taille moyenne, tandis que l'autre est brun et a une coupe de cheveux, parle de manière inappropriée avec le client et ne porte pas le manteau de l'entreprise. 	comportement
+L'agent sort de la cabine et flirte avec une grande fille aux cheveux blonds	respect
+L'agent utilise les écouteurs du téléphone et utilise le smartphone de taille moyenne, mince avec une coiffure, utilise une manière inappropriée avec le client	metier
+L'écran d'information est cassé, et la façade du kiosque est cassée	sécurité
+L'agent utilise le smartphone	metier
+L'observateur ne porte pas de blouses de société	comportement
+Les trois observateurs ne portent pas de blouses de société	comportement
+Deux observateurs ne portent pas le gilet de l'entreprise. L'un d'eux porte le nom de Kairouani et l'autre est de petite taille.	comportement
+kiosque fermé	gestion
+Chef des agents prend un chaise sur la ram et parlé avec son smartphone	respect
+Il Reste debout	metier
+Les deux observateurs ne portent pas le gilet transparent de l'entreprise, et l'un est un grand observateur blond	comportement
+L'agent utilise le smartphone indifféremment au client, la quarantaine brune, aux cheveux gris	metier
+L'agent utilise le téléphone, une entreprise normale, mais ne se soucie pas du client, brun de taille moyenne	metier
+La façade du kiosque est brisée en porcelaine	sécurité
+L'agent de controle prend une autre marque de la veste un jeune homme 180 blanc	comportement
+L'agent joue avec le téléphone indifféremment au client de taille moyenne, aux cheveux foncés et aux yeux foncés	metier
+La façade du kiosque est brisée	sécurité
+L'agent de l'agence commerciale joue avec le smartphone tout en restant debout pour le client	metier
+La machine de paiement automatique ne fonctionne pas	technique
+L'agent utilise un smartphone Grand homme aux cheveux bruns	metier
+L'un des observateurs, chauve dans la quarantaine, parlait d'une manière rude, blond moyen	respect
+hors programme	technique
+Il ya un manque d'electricite a7 niveau de l'agence commercial	technique
+Valideur val 5 alumé mais ne fonctionne pas	technique
+L'agent mange négligemment le client aux cheveux roux de taille moyenne	comportement
+L'agent aux cheveux bruns de petite taille utilise un smartphone	metier
+L'agent de l'agence commerciale reste debout pour la cliente aux cheveux blancs de taille moyenne	metier
+Agent de l'agence commercial à l'aide d'un smartphone Portant un chapeau Barbe de taille moyenne	metier
+Façade cassée de kiosque de porcelaine	sécurité
+Val v6 alumé mais n'est pas fonctionnelle	technique
+La posture de l'ageny de kiosque n'est pas bien puisque il vent les ticket debout un agent brun prend des lunettes medicale 175 .178m	metier
+L'agent parle de manière inappropriée au client avec dégoût , ses cheveux sont blancs, de taille moyenne	respect
+L'agent utilise le smartphone indifféremment au petit client blond	metier
+machine de paiement ne fonctionne avec que la carte ne fonctionne pas pour payer le ticket	technique
+Presence d'eau sir le sol et les banc de la stations	sécurité
+Il ya un retard de 20-30 minute entre les rams	gestion
+Ne prend pas la bavette correctement	comportement
+L'agent du kiosque a agi à l'extérieur du kiosque, sa courte barbe noire est sortie plusieurs fois, parlant d'une manière inappropriée.	respect
+Fissure sur DAY	sécurité
+L'observateur d'une quarantaine d'années parle d'une manière grossière, malgré que l'étudiant paye l'amende, mais l'étudiant a approuvé la contravention	comportement
+Devant le kiosque, un homme avec une barbe noire à l'extérieur du kioqsue fait un comportement inapproprié avec des lunettes	respect
+Vent les ticket debout	metier
+L'écran d'information est allumé, ne fonctionne pas	technique
+L'agent a commis un acte hors de l'agence pour harceler une fille, un grande homme blond aux yeux verts, qui portait un pantalon vert et une chemise blanche.	respect
+L'observateur d'une quarantaine d'années porte un manteau de fourrure, aux cheveux gris, et parle d'une manière grossière au client	respect
+L'écran d'information est allumé, ne fonctionne pas	technique
+L'écran d'information fonctionne une fois	technique
+La façade du kiosque est en céramique brisée.	sécurité
+L'agent ne s'est pas assise pour le client, il est resté debout, de taille moyenne, blond avec une barbe et des cheveux longs	metier
+Vent les tickets debout	metier
+La machine de paiement ne fonctionne pas	technique
+Une vingtaine de clients se sont levés de Biskra, mais les observateurs ne se sont pas bien comportés et ont infligé des amendes aux touristes 	comportement
+ l'agent dans le kiosque utilise un style rude avec le client, une taille moyenne, ses yeux sont noirs, il met un poney	respect
+L'agent utilise négligemment le smartphone au client de taille moyenne aux cheveux noirs et aux yeux noirs	metier
+Vent les ticket debout	metier
+Façade cassée de kiosque de porcelaine	sécurité
+L'observateur responsable harcèle les filles de manière inappropriée et de manière inappropriée avec le client de taille moyenne, aux cheveux gris à la main, tenant un disque à la main	respect
+Façade cassée de kiosque de porcelaine	sécurité
+L'agant utilise le smartphone sans mouiller le client.Il est blond, de petite taille, aux yeux jaunes, et la façade du kiosque est cassée.	metier
+Je trouve deux agent sur le kiosqur deux jeune un brin  cheveux  et des yeux noir bien placé et l'autre un jeune avec des yeux vert 170m debout	metier
+Debout	metier
+Il y deux agent de setram mais je ne sais pas si des agent de controle ou non assis sur chaises	comportement
+L'agent utilise le smartphone sans mouiller le client.Il est blond, de petite taille, aux yeux noirs,	metier
+a façade du kiosque est cassée.	sécurité
+Vent les tickets debout	metier
+L'embrayage utilise le smartphone sans mouiller le client.Il est blond, de petite taille, aux yeux jaunes,	metier
+la façade du kiosque est cassée.	sécurité
+L'agent ne s'assied pas pour un client et traite de manière peu sérieuse, grand et met Bonnie sur la tête avec une carrure mince	respect
+Dat fissuré	sécurité
+J'ai pas trouvé l'agent de l'agence commerciale mais il fait la plaque	comportement
+Un pépin technique de 15h45 à 16h29 a provoqué l'arrêt des véhicules et un départ tardif	gestion
+la façade du kiosque est cassée.	sécurité
+La machine à payer est arrêtée, nous avons trouvé les ouvriers de l'entreprise pour la réparer	technique
+La numérotation de l'écran d'information est désactivée	technique
+la façade du kiosque est cassée.	sécurité
+Dat alumé mais n'etait pas fonctionnelle	technique
+Val 06 de la ram ne fonctionne pas	technique
+Il n'y a pas de DAT au terminal s3 quie 1	technique
+vent les tickets debout	metier
+l'agent de kiosque est entraint de fumé a l'exterieur de kiosque il na pas fait la plaque me vent le ticket debout un jeune de vintaine petit tail brun cheuveux noir	metier
+L'AGENT DE L'AGENCE COMMERCIALE ENTRAIN DE PARLER AVEC SON SMARTE PHONE UN JEUN HOMME DE TRANTAINE  BLANC CHEVEUX CHATIN	metier
+Dat gissuré	sécurité
+L'agent de kiosque de trantaine petit tailleblanc parlé avec son smartphone	metier
+Debout mais il a changer la posture	metier
+Valideur 05 de la ram eteind mais n'etait pas fonctionnelle	technique
+Surcharge sur la ram	technique
+La ram était sur charge par les voyageur	technique
+Valideur de la ram val06 n'etait pas fonctionnele	technique
+Il était debout et la vente	metier
+Les contrôleur assis sur les chaises voyageur	respect
+DAT etait  allumé mais ne fonctionne pas	technique
+Le kiosque etait fermé	gestion
+Le chauffeur prend une café	metier
+Il y'a un deuxiéme agent sur le kiosque	metier
+Dans l'agence commerciale il ya 4 agents  discuté	metier
+Les agents prend des chaises	respect
+UN retard de 5 min sur BIV	technique
+3 agent sur le kiosque	metier
+Debout et regardant par la fenêtre	metier
+Il ya 2 agents discuté	metier
+Regardez à la fenêtre	metier
+Il y a une autre personne avec l'agent de kiosque	metier
+Il est debout	metier
+Trouve 3 autres agent sur le kiosque	metier
+En train de parléIl ya 3 agent sur le kiosque	metier
+Valideur de la ram wag 1 ne fonctionne pas	technique
+Discute avec autre agent	metier
+L'agent de kiosque une jeune homme petit  taille brun cheveux noir des yeux noir jouer avec son smartphone	metier
+Il ya un autre agent qui dormir á l'interieur  de kiosque	metier
+Valideur val07 de la rame ne fonctionne pas	technique
+L'agent de kiosque un jeune homme blanc cheveux chatin prend des lunettes utilise son smartphone	metier
+Je trouve 3 agent dans le kiosque	metier
+Les controleurs prend des chaises sur la ram	respect
+Lea agents de conteoles prend des chaises	respect
+Les agents de controles prend des chaises sur la ram	respect
+Discuté avec autre agent	metier
+S22 DAT n'etait pas fonctionne	technique
+Manque des tickets sur DAT S9	technique
+Il ya un autre agent dormir dans le kiosqulk3ll a so I hamzarchi85	metier
+L'agent de kiosque blanc petit tail cheveux et yeux noir utilise son smartphone	metier
+Il ya 4 agent dans le kiosque	metier
+Le chauffeurbprend une cafe sur la cabine	metier
+Il ya des ecritures sur les bancs S12 etS10 puai1	gestion
+Il ya 3 agents sur le kiosquw	metier
+L'agent d'abonnements au niveau de l'agence commerciale n'est pas disponible L'agent de la vente de billets n'est disponible que	metier
+Il ya un autre agent assis sur le sol de kiosque joue avec son smartphone.valideur val07 de la rame ne fonctionne pas	metier
+L'agent de kiosque un bon homme de quarantaine  rouge 170.175  en tarin de parlé avec son smartphone	metier
+Faillence de kioque cassé	sécurité
+Il ya des écriture sur le banc de station	gestion
+L'agent de kiosque est entrain de discuté avec son camarade (agent)	metier
+L'Agent de kiosque un jeune homme blanc cheveux noir utilise son smartphone	metier
+Agence commerciale Station n°24 Il n'y a qu'un seul agent et la billetterie est fermée	gestion
+Valideur val 10 de la  ram ne fonctionne paa	technique
+Il ya un retard de 2 minutes sur la BIV	technique
+Il ya 2 agent sur le kiosque	metier
+Il ya 3 agents sur le kiosque	metier
+Valider de la ram wag3 ne fonctionne pas	technique
+Il ya un décalage du temp dans le alideur de la ram 9 min	technique
+agent à vendre des billets à l'extérieur du kiosque et il y a une fille à l'intérieur du kiosque qui m'a vendu le billet	metier
+Les agents prend des chaises sur la ram	respect
+Les3 agent de contrôles prends des chaises sur la ram	respect
+Agence commerciale Station n°24 Il n'y a qu'un seul agent et la billetterie est fermée	gestion
+Il est assez	metier
+Le kiosque est ferme	gestion
+L'AGENCE COMMERCIALE EST FERME	gestion
+Le alideur de la ram b fonctionne pas	technique
+Le alideur val 06 de la rame ne fonctionne pas	technique
+Prend des chaises	respect
+Agence commerciale Station n°24 Il n'y a qu'un seul agent 	gestion
+Les contrôleur assis sur les chaises voyageurs	respect
+Valideur de la ram wag 3 ne fonctionnec pas	technique
+S01 8:10 AM agent de kiosque : Une fille qui porte une foulard blue ciel refuse de me renseigner sur l’abonnement et elle m’a demandé d’aller chez l’agence pour qu’ils me renseinger.	gestion
+La ame etaient sur charge	technique
+Il ya un décalage de 3 minutes sur BIV	technique
+Kiosque est fermé	gestion
+L’agent donne des fausses informations sur les horaires de passage du tramway	gestion
+L'agent de kiosque un bon homme maigre run cheuveux noir  joué avec son smartphone	metier
+A 12:25 L’agent mettait la musique au niveau du kiosque	metier
+L'agent de kiosque.un bon homme de trantaine gand taille 180m  en train de fumé hor kiosque	metier
+L'agent de kiosque.un bon homme dequarantaine b run avec ube petit bambe ngike uyimise son smart phone	metier
+L'agent de kiosque une jeune fememe bhande prend d es lunette medicale uyimise son smartphone	metier
+Valideur de la ram wag3 ne fonctionne pas	technique
+Val de la ram wag3 ke fonctionne pas	technique
+Le DAT ne fonctionne pas	technique
+Tout les valideurs de la rame 112 ne fonctionne pas	technique
+S21 le systheme sonnore ne fonctionne pas	technique
+Il ya 3 agents sur. Kiosque	metier
+Quai 1 le DAT ne fonctionne pas	technique
+S11 quai 1 le borne d'information ne fonctionne pas complètement	technique
+L'agent de kiosque esi un ben homme blanc grand taille en train de fumé et boire  du cape a l'exte4ieur du kiosque	metier
+Poste n°24 La porte de l'agence commerciale est ouverte et l'assistante à la souscription est à l'extérieur en train de parler à un autre agent	metier
+Le borne d'information ne fonctionne pas complètement	technique
+L'agent de setram prend une chaise	respect
+Porte la bavette incorrectement	comportement
+17/10 16:05 la rame 113 les valideurs 23 munite de retards	technique
+Le système sonore ne fonctionne pas  et le borne d'information ne fonctionne pas	technique
+Le système sonore ne fonctionne pas	technique
+Lagence était fermé	gestion
+Agence commerciale , Il n'y a qu'un seul agent	gestion
+L'agent ne connait pas comment fait une abonnement pour un fonctionnelle (procedure)	comportement
+L'agent de kiosque un jeune homme blanc utilise son smartphone	metier
+Le borne d'information active puis il écrit bienvenue sur le réseau	technique
+Valideur de la ram val4 ne fonctionne pas	technique
+La rame 120 le système sonore et le borne d'information ne fonctionne pas	technique
+S24 A l'intérieur de l'agence commerciale, il ya un seul agent	gestion
+La sensibilisation est assuré par le conducteur. Il ya des clients qui ne porte pas des bavettes	gestion
+La plus part des clients ne porte pas des bavettes	gestion
+Manque d'écléraque sur la station 9	technique
+L'AGENT DE KIOSQUE UN JEUNE HOMME BLANC CHEVEUX NOIR UTILISE SON SMARTPHONE	metier
+L'agent de kiosque un jeune homme blanc cheveux chatin utilise son smartphone	metier
+Il ya des piéces de la faillance cassées	gestion
+L'Agent de kiosque ne porte pas du bavette un bonne homme brun 170 cheveux noir	gestion
+Se trouve 2 agent sur le kiosque	metier
+Le borne d'information un il active et autre bloqué	technique
+Il ya des clients sur la ram ne porte pas des bavettes	gestion
+Le borne d'information ne fonctionne pas écrit bienvenue sur le réseau	technique
+L'agent se trouve hors le kiosque c'est un jeune homme blanc cheveux noir petit taille	metier
+Il y'a 4 agents dans le kiosque un des agents ne prend pas du bavettes et aucune distance de securite	comportement
+Manque d'agent qui change la pochette de l'abonnement il ya un autre agent blanc cheveux et yeux noir. Qui ne peut pas changer la pochette	metier
+La ram était sur charge .la plus part des cmients ne porte pas des bavettes	gestion
+Il ya plusieur agents sur l'agence	metier
+Il ya un retard de deux munutes sur BIV	technique
+Valideur 9 de la ram ne fonctionne pas	technique
+L'agent d'agence commerciale ne porte oas du bavette jeune homme de trantaine brun	comportement
+L'AGENT DE KIOSQUE UTILISE SON SMARTPHONE (UN BON HOMEE DE TRANTAINE BRUN CHEVEUX NOIR AVEC UNE PETIT BARBE NOIR	metier
+Le conducteur prend une cafe	metier
+L'un des DAT ne fonctionne oas	technique
+Il ya des clients ne portents pas des bavettes	gestion
+L'agent de kiosque ne porte pasdu bavetteest utilise son smartphone unn jeine hommz de trantaine blanc cheveux noir	comportement
+L'agent de l'agence commerciale ne porte pas de bavette\un jeune homme blanc cheuveux chatin avec une petit barbe	comportement
+L'agent de kiosque ne porte pas du bavette un jeune hmme de vingtaine blanc avec une barbe noir	comportement
+Dans l'agence commerciale il ya un agent	gestion
+L'agent de kiosque un bonne homme brun cheveux noir utilise son smartphone	metier
+Les agents de controle assis sur les chaises de la ram	respect
+L'un des deux BIV ne fonctionne pas	technique
+Il ya un probleme sur les valideurs de la ram 123 validé et non afiche sur le ticket	technique
+L'agent de setrame assis sur une chaise	respect
+Il ya des clients ne porte pas du bavettes	gestion
+DAT est salle	gestion
+Val val 07 de la ram ne fonctionne pas	technique
+Ouvrir la porte et discuter avec son collègue	metier
+Il ya un agent de maintenance sur DAT et un autre agent de maintenance prend la place de l'agent de kiosque	gestion
+Touts les valideurs de la ram en panne	technique
+Les valideurs de la rame ne valide pas les ticets	technique
+L'agent de SETRAM prent une chaise	respect
+Les clients ne porte pas des bavettes	gestion
+L'agent de kiosque en tain de parler avec son smartphone	metier
+L'agent de setram prebd une chaise sur la ram	respect
+Le kiosque N1 était fermé	gestion
+Le kiosque était fermé	gestion
+L'agent de kiosque ne porte pas du bavette un jeune homme petit tail brun	comportement
+L'agent de kiosque assis sur le bureau	respect
+L'agent de kiosque ne porte pas la bavette / un bonne homme rouge	comportement
+La ram était sur charge	technique
+Kiosque ferm	gestion
+Il ya des clients qui ne porte pas les bavetes	gestion
+les deux agent de l'agence commercial utilisnt le. Smartphone	metier
+ un agent de controle prent une place sur la ram	respect
+se trouve 2 groupes des agents de controle	gestion
+Le kiosque N1 était fermé	gestion
+Il ya des clients qui ne porte pas la bavette	gestion
+L-agent de kiosque ne porte pas la bavette	comportement
+La tam était sur charge	technique
+La plus part des clients ne porte pas les bavettes/l'agent de kiosque ne porte pas la bavette un jeune homme blanc avec barbe et des lunettes	comportement
+L'agent de kiosque neporte pas labavette	comportement
+Probleme dans BIV N2	technique
+L'agent de kiosque ne porte pas la bavette/ un jeune homme avecune barbe	comportement
+La 2 ème BIV ne fonctionne pas	technique
+L'agent de kiosque ne porte pas la bavette un jeune homlebblanc petit tail avec une barbe noir	comportement
+L'agent de kiosque un jeune homme blanc petit taille utilise son smartphone	metier
+La plus part des clients ne porte pas la bavette	gestion
+Les clients ne porte pas les bavettes	gestion
+L'agent de kiosque ne porte pas la bavette et utilisé son smartphone	comportement
+La ram sur charge et les clients ne porte pas les bavettes	gestion
+ il un autre agent qui conduire la ram avec le chauffeur	metier
+K'agent de kiosque ne porte pas la bavette	comportement
+Les clients ne porte pas la bavette	gestion
+L'agent de kiosque ne portepas la bavette	comportement
+Les controleurs et l'agent de controle ne portent pas la bavette	comportement
+L'agent se trouve hors l'agence commercial un jeune blanc petit taille	metier
+L'agent de kiosque ne porte pas la bavette	comportement
+Ram 115 le systéme sonor ne fonctionne pas	technique
+L'agent de kiosque un bon homme de quarantaine blanc utilise son smartphone	metier
+Les clients ne porte pas la bavette	gestion
+Le kiosque était fermé	gestion
+Le 1 er kiosque était fermé	gestion
+Il ya un retad de 3min sur BIV	technique
+LEs agents de controle prend des chaise sur ram	respect
+L'agent de kiosque est un bonne homme de quarantaine cheveux chatin utilise son smartphone	metier
+Il ya un probléme sur BIV 2	technique
+Prent gellet blanche	comportement
+Presence de piece de faience cassé sur kiosque	sécurité
+S1DAT  fonctionne pas	technique
+Me conducteur prend une bouteille d'eau	gestion
+des informations inccorectre sur la carte d'abonnement	metier
+l'agent parle avec son ami 	metier
+l'agent prend un short 	comportement
+l'agent met la bavette dans sans bras	comportement
+l'agent de l'agence commerciale refuse de me répondre	metier
+la porte est cassé	sécurité
+certain cleints ne respecte pas les lois 	gestion
+l'agent ne respete pas la femme et sa fille	comportement
+agents assis sur les chaises et refuse de les laisser pour les cleints	respect
+l'agent est dans le kiosque mais il ferme la porte	metier
+l'agent prend un chapeau est une autre veste jaune	comportement
+un agent ne sais pas comment remplir les cartes	metier
+l'agent du kiosque fait beaucoup d'erreur	metier
+l'agent est res lent	metier
+les informations sur la carte n'est pas les miens, l'agent se tromper	metier
+l'agent refuse de me donner plus de détails 	metier
+L'agent demande de l'aide de son camarade avant de me reprendre	metier
+l'agent refuse de mettre sans bavette 	comportement
+l'agent parle avec les clients sans bavette	comportement
+l'agent ne porte pas son gellet il le met sur la chaise	comportement
+agent fait beaucoup d'erreur et de retard, il ne sais rien 	metier
+agent refuse de vérifier mes informations	metier
+agent ferme le kiosque afin de manger	metier
+agent change ses vetement dans le kiosque 	comportement
+kiosque esr salle	sécurité
+le gellet de l'agent est sal	comportement
+agent est malade est refuse de mettre la bavette	comportement
+agent n'a pas du bavette 	comportement
+l'agent est debout 	comportement
+j'ai demander a l'agent de mettre sa bavette mais il refuse	comportement
+l'agent met la bavette incorectement	comportement
+l'agent prend la bavette de son camarade et la met	comportement
+un homme met le gillet de l'agent	comportement
+agent malade ne prend pas la bavette	comportement
+il est sans gillet	comportement
+son gillet est sal	comportement
+debout pour les clients	comportement
+il met une cassequette dans le kiosque	comportement
+il prend des lunettes noirs dans le kiosque	comportement
+l'agent est sal	comportement
+il ne prend ni gillet ni bavette 	comportement
+il prend un gillet noir	comportement
+l'agent oublie de porter son gillet 	comportement
+il travaille debout	comportement
+l'agent ne prend pas des chaussures !	comportement
+il met la bavette et le gillet sur la chaise	comportement
+il est debout sans bavette	comportement
+agent de kiosque refuse de porter le gillet 	comportement
+deux agents prend la meme bavette 	comportement
+l'agent prend une autre veste	comportement
+il prend un tricos de sport, ll est sans bavette	comportement
+il est toujours debout 	comportement
+il prend qu'un tricos de peau	comportement
+presques tous les agents sont sans bavette	comportement
+ni bavette ni veste , il ne respecte pas la loi	comportement
+il n'a pas porter la bavette pour parler avec  le client	comportement
+il n'a pas du bavette 	comportement
+malges il porte la veste mais refuse de mettre la bavette 	comportement
+il y a aucun kiosque	gestion
+les voyageurs ne respectent pas les gestes barrières	gestion
+les clients ne portent pas les masques	gestion
+Les gens ne  respectent les chaises vides dans la rame 	gestion
+Les gens ne  respectent le marquage au sol 	gestion
+il y a des gens qui ne valident pas leur tickets	gestion
+il y a plus de 15 voyageus dans un seul wagon	gestion
+aucune fiche de covid 19	gestion
+kiosque esr fermé toute la journé	gestion
+aucune agence ouverte!	gestion
+aucun message de sensibilisation	gestion
+dat n'a pas du numéro 	gestion
+numéro du wagon n'existe pas	gestion
+station n'a aucun nom	gestion
+manque de numéro du dat	gestion
+manque de numéro de la ram	gestion
+trafic pertutbe	gestion
+nom de station existe pas	gestion
+les agences est ferme 	gestion
+je n'ai trouvé ni l'agent ni le kiosque	gestion
+aucune fiche	gestion
+papier autocolant est sur les fiches	gestion
+il ya des écritures sur les fiches	gestion
+des fiches est mal placé	gestion
+les clients ne respectent pas les lois	gestion
+aucun client mettent la bavette	gestion
+aucun controleur	gestion
+a 7h du matin, tous les kiosques sont fermés 	gestion
+ni l'agent ni les clients portent les masques	gestion
+les fiches de sensibilisations n'existent pas	gestion
+il ya des wagon pleins et d'autre vide ! 	gestion
+wagon a des cleints qui ne portent pas les masques	gestion
+aucune distance entre les clients 	gestion
+distance entre client n'a pas accepté 	gestion
+il ya des cleints qui sont malades mais ne portent pas les bavettes	gestion
+aucune fiche de sensibilisation 	gestion
+aucun client porte le masque	gestion
+aucun agent pour controler si les clients portent les bavettes ou pas	gestion
+les clients n'ont pas accepté la distance et aucun agents pour les controler	gestion
+aucun kiosque est ouvert	gestion
+je n'ai trouvé aucune agence ouverte	gestion
+les agents de controles ne portent pas des bavettes! 	gestion
+la majorité des cleints ne portent pas des masques	gestion
+aucun agent de contrôle!    	gestion
+le kiosque n'est pas propre	sécurité
+aucune poubelle existe et les ordures sont dans le sol	sécurité
+des verres cassés sur le sol de l'agence commerciale	sécurité
+agent met la cigarette sur le sol 	sécurité
+La porte de l'armoire electrique est cassé	sécurité
+eau sur l'entré de l'agence	sécurité
+des poubelles est sur les chaises des clients	sécurité
+aucun agent de sécurite	sécurité
+le sol de kiosque n'est pas propre	sécurité
+il y a un risque d'une masse electrique	sécurité
+fenetre cassé	sécurité
+des verres de bouteille est sur les bons	sécurité
+je trouve des verres sur le wagon 	sécurité
+un jeune attaque une femme et aucun agent ici	sécurité
+des jeunes attaquent les clients pour les voler	sécurité
+des verres sur les wagon	sécurité
+un risque d'une masse electrique	sécurité
+aucun couvercle du poteau électrique	sécurité
+cordon electrique est tres proche de l'eau	sécurité
+une pièce de la fenetre du wagon est casse	sécurité
+une pièce de la porte est cassé 	sécurité
+la poubelle est partout	sécurité
+on trouve toujours des pièces de verres sur les chaises 	sécurité
+existent-ils des agents de sécurité?	sécurité
+un jeune a volé le sac d'une vielle dame	sécurité
+un jeune a volé le téléphone d'une jeune fille, il est grand avec des yeux noir, il met une cassequette et des lunettes, il porte une veste verte avec un pontalon jean bleu 	sécurité
+le jeune homme attaque l'agent de kiosque 	sécurité
+a 9h30 du matin, une femme a essayé de voler le sac d'une autre femme mais cette dernière a la frapper, elle porte du jilbab et de sitar aussi	sécurité
+une pièce de la fenetres est cassé et peut endommager un accident surtout pour les enfants	sécurité
+le wagon n'est pas propre du tout	sécurité
+eau sur le sol de l'agence commerciele	sécurité
+un agent de kiosque essaye de frapper une femme; il est blond avec des cheveaux noir, il porte des lunettes et un tricos jaune, il est 35 ans presque	sécurité
+aucun agent de sécurite dans le terain	sécurité
+un jeune a essayé ce matin de me voler 	sécurité
+des verres sur les chaises	sécurité
+les agents de sécurité n'existent pas	sécurité
+beaucoup de voleurs ici, ce matin deux jeune a volé une damme et un enfant	sécurité
+c'est 10h20 du matin et aucun agent de sécurité existe!	sécurité
+un enfant est mal blessé par une pièce cassé de la fenetre	sécurité
+l'eau sur le sol du kiosque 	sécurité
+agent de sécurité est absent	sécurité
+verre et eau sur le sol, existe-il des agents de sécurité ou des femmes de ménages?	sécurité
+un risque sur les enfants car il y a des verres sur les chaises et sur les sols	sécurité
+absence de l'électricité	sécurité
+porte du wagon est cassé	sécurité
+des poubelles sur le sol, existe-elle des femmes de ménage?	sécurité
+j'ai pas trouvé ma valise, j'ai demandé a l'agent de sécurité de m'aider mais il fait rien	sécurité
+une jeune filler a met sa valise sur le sol pour payer l'agent du kiosque mais un jeune a la volé, il est d'une petite taille, il porte du masque 	sécurité
+un homme et une femme a essayé de voler les cleints, la femme demande du clients ses téléphones pour parler avec quelqu'un et l'homme le voler apres, elle a des cheauveux long, elle est brune porte une veste cuire, l'homme porte un masque et une veste noir	sécurité
+des pièce des verres sont sur le sol du wagon	sécurité
+une pièce des verres de la fenetre cassé a me blessé ce matin 	sécurité
+Une étincelle électrique a provoqué un incendie au niveau du kiosque	sécurité
+La machine m'a donné un choc électrique	sécurité
+Il y a des travaux à la gare, qui peuvent être dangereux	sécurité
+Il y a des travaux à la gare et il n'y a pas d'avertissement pour cela	sécurité
+il y a une masse électrique sur DAT	sécurité
+Le matériel de premier secours n'existe pas	sécurité
+aucune extincteurs existe	sécurité
+Y-a-t-il Un système de sécurité anti-incendie?	sécurité
+des clients fumment dans les wagons et ça me dérangé,Y-a-t-il Un détecteur avertisseur autonome de fumée?	sécurité
+aucun éclairages de sécurité	sécurité
+en cas d'un incendi il y a aucun systèmes d'extinction automatique	sécurité
+Système d’alarme n'existe pas	sécurité
+ma question est si il-y-a des sorties de secours?	sécurité
+Une vitre cassée a blessé la main de l'enfant	sécurité
+Vitre brisée éparpillée sur les sièges	sécurité
+Une querelle s'est produite entre deux clients à propos de tickets, et aucun agent de sécurité n'interviendrait	sécurité
+Mon portefeuille a été volé ce matin	sécurité
+Le verre a été cassé il y a trois jours et personne ne l'a emporté	sécurité
+le sustème d'alerte ne fontionne pas	sécurité
+Une vitre cassée blesse ma main	sécurité
+l'agent ne respecte pas  les horaires de travail	respect
+L'agent n'a pas respecté la femme et l'a traitée d'animal	respect
+Parler de manière inaudible	respect
+elle n'est pa gentille avec les clients 	respect
+l'agent ne respecte pas les lois de porter la bavette	respect
+les agents assis sur les chaises	respect
+Communiquer de manière violente pour exprimer la situation pour le client	respect
+il me ne donné pas  un temps pour me laisser exprimer ma situation	respect
+il etait tres colère 	respect
+elle ne respecte pas la vielle dame	respect
+Les officiers ne respectent pas le vieil homme et ne le laissent pas s'asseoir	respect
+il refuse de m'écouter	respect
+l'agent ne respecte pas ses camarades	respect
+l'agent du kiosque frappe l'enfant 	respect
+il y a de clients ne respectent pas les agents surtout les femmes	respect
+il me ne donne pas l’occasion de répondre	respect
+l'agent ne me respecte pas, il est blanc avec des cheveaux noirs	respect
+je trouve que l'agent du kiosque 1 toxique	respect
+il n'est pas polie	respect
+L'agent m'a mis en retard et a refusé de s'excuser	respect
+il me coupe lorsque je parle.	respect
+l'agent de l'agence ne prend pas soin de ses vêtements	respect
+L'agent n'a pas accepté qu'il ait commis une erreur contre la femme	respect
+Ne pas admettre qu'elle avait tort	respect
+l'agent a un problème de communication , il n'est pas respectable du tout	respect
+l'agent doit surveiller sa façon d'être et ses manières	respect
+je trouve que l'agent mélange entre le travail et ses émotions 	respect
+beaucoup de clients ne respectent pas les agents, ou sont ils les contrôleurs?	respect
+il y a un manque de respect entre l'agent et les controleurs	respect
+pourquoi les contrôleurs sont ils assis sur les chaises des clients?	respect
+un agent parle d'une façon rude avec deux étudiantes	respect
+L'agent est une femme qui refuse de vendre le billet à l'étudiant	respect
+L'agent a traité la fille de manière inappropriée à sept heures du matin	respect
+L'agent ne sait même pas ce qu'est le respect, c'est un voyeur	respect
+trois agents ne respecte pas leurs camarades	respect
+l'agent utlisele smartphone lorsque j'ai parlé avec lui	respect
+l'agent parlé d'une manière inacceptable avec la femme 	respect
+L'agent a refusé de vendre des billets aux clients et leur a fermé la porte au nez	respect
+L'agent a parlé de son collègue de manière irrespectueuse	respect
+L'agent parle de manière irrespectueuse aux clients	respect
+J'envisage sérieusement d'organiser des manifestations afin d'exiger le respect des clients	respect
+l'agent agit hors de sa tête sans demander à son ami	respect
+je vous conseille de vérifier le harcèlement sexuel entre les agents	respect
+Certains agents se livrent à la violence au travail	respect
+il ne se conforme pas à les procédures et les  règles  concernant l’apparence et la tenue vestimentaire	respect
+L'agent de controle a refusé de signaler un incident violent ce matin	respect
+l'agent contrôleur n'intervenit pas dans un incident de violence entre un client et un agent de kiosque	sécurité
+je trouve qu'il y a des agents qui sont non respectable	respect
+Les agent sont assis sur les chaise des clients	respect
+L'agent ne s'assoit pas pour un client et traite de façon désagréable.	respect
+L'agent fait n'importe quoi sans demander à son ami.	respect
+Les agents ne  s'occupent pas du ram.	respect
+L'observateur  harcelait mal les filles.	respect
+Il dit des choses indécentes.	respect
+l'agent du stand utilise un style grossier avec le client.	respect
+le représentant dans la cabine utilise un style grossier avec le client.	respect
+L'agent dans la cabine a un style sévère avec le client.	respect
+Il va pas m'écouter.	respect
+Il m'écoutera pas, c'est tout.	respect
+Certains agents commettent des actes violents en milieu de travail.	respect
+l'agent ne respecte pas les emplois du temps.	respect
+Il y a des policiers qui sont impliqués dans des actes de violence au travail.	respect
+Certains officiers sont mêlés à des actes de violence au travail.	respect
+L'agent de la cabine est dur avec le client.	respect
